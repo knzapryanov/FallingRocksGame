@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\SoftUni Projects\FallingRocksGame\FallingRocks\bin\Debug\FallingRocks.exe.config
+C:\Users\User\Desktop\SoftUni Projects\FallingRocksGame\FallingRocks\bin\Debug\FallingRocks.exe
+C:\Users\User\Desktop\SoftUni Projects\FallingRocksGame\FallingRocks\bin\Debug\FallingRocks.pdb
+C:\Users\User\Desktop\SoftUni Projects\FallingRocksGame\FallingRocks\obj\Debug\FallingRocks.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni Projects\FallingRocksGame\FallingRocks\obj\Debug\FallingRocks.exe
+C:\Users\User\Desktop\SoftUni Projects\FallingRocksGame\FallingRocks\obj\Debug\FallingRocks.pdb
